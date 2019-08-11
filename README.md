@@ -1,15 +1,6 @@
 # **Kissankidutuspeli**
-**Ei vielä julkaistu!!**
+[Play in Scratch](https://scratch.mit.edu/projects/323840066/)
 
-Napsautuspeli, joka on tehty scratch **ohjelmointikielellä**, jossa kidutat scratchin maskotti kissaa.
+Napsautuspeli, joka on tehty scratch **ohjelmointikielellä**, jossa kidutat scratchin maskottikissaa.
 
-# To do List
-* Kissan Kidutus
-* Kissan raapiminen
-* Kissan lyöminen
-* Toimiva rahajärjestelmä
-* Kiduttavat kaverit (automaattinapsuttimet)
-* Edistymisjärjestelmä
-* Visuaalisia tehosteita (veri, raapiminen)
-* Optimointi
-* _Tallentaminen mahdollisuuksien mukaan_
+Made by Le0nerdo and Kvaak.
